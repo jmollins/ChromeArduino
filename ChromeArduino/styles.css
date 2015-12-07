@@ -1,0 +1,18 @@
+/* CSS file placeholder. */
+.plot {
+    width: 725px;
+    height: 400px;
+}
+
+.myDataTable {
+    overflow-y: auto;
+    height: 100px;
+}
+
+.mySlider {
+    width: 90%;
+}
+
+body {
+
+}
